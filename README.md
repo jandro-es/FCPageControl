@@ -25,7 +25,7 @@ There are four possible types:
 *	<code>FCPageControlTypeActiveEmptyInactiveEmpty</code>
 
 #### Dots color ####
-It allows to set colors for the active and inactive elements, no more hacks to swith the dots for images.
+It allows to set colors for the active and inactive elements, no more hacks to switch the dots for images.
 
 *	<code>activeColor:(UIColor *)</code>
 *	<code>inactiveColor:(UIColor *)</code>
